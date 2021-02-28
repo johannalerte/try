@@ -1,0 +1,135 @@
+
+body{
+
+        text-align: center;
+        font-family: 'Chivo', sans-serif !important;
+margin: 0 auto;
+}
+.header{
+    background-image: url(../try/li.png);
+    background-size: cover;
+    color: white;
+    padding-bottom: 90px;
+    padding-top: 90px
+}
+
+.header h1 {
+    size: 90px !important;
+}
+
+    
+.header p {
+
+    size: 50px !important;
+    margin-bottom: 40px;
+    opacity: 0.7;
+}
+
+
+
+ .button {
+     color: white;
+     font-family:  'Chivo', sans-serif ;
+     font-weight: 900;
+     padding: 10px 20px;
+     text-decoration: none;
+     text-align: center;
+     background-color: #1b48e3; 
+     font: bold;
+     border-radius: 2px;
+     margin-top: 20px;
+  
+}
+
+
+.images {
+    text-align: center;
+}
+
+.footer {
+    background: #404042;
+    color: white;
+    padding: 10px 0px;
+}
+
+
+
+.footer h3{
+    margin-left:400px;
+    color:white;
+    font-family: 'Chivo', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.blocshanghai {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 5px rgb(189, 186, 186);
+    padding:10px;
+    border-radius:  17px;
+    margin:10px 10px 30px 10px;
+
+
+}
+.bloclondon{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 5px rgb(189, 186, 186);
+    padding:10px;
+    border-radius:  17px;
+    margin:10px 10px 30px 10px;
+    
+}
+
+.blocparis { 
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 5px rgb(189, 186, 186);
+    padding:10px;
+    border-radius:  17px;
+    margin:10px 10px 30px 10px;
+    
+}
+
+
+.allblocs {
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    margin: 20px 400px 80px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+}
+
+.description{
+margin-left: 400px;
+text-align: left;
+font-size: 20px;
+
+}
+
+.blocshanghai p {
+    font-size: 20px;
+    text-align: left;
+}
+.bloclondon p {
+    font-size: 20px;
+    text-align: left;
+}
+.blocparis p {
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.blocshanghai h2 {
+    font-size: 30px;
+    text-align: left;
+}
+.bloclondon h2 {
+    font-size: 30px;
+    text-align: left;
+}
+.blocparis h2 {
+    font-size: 30px;
+    text-align: left;
+}
+
